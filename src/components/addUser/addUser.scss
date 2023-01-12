@@ -1,0 +1,29 @@
+.add-container{
+    width: 700px;
+    height: 200px;
+    margin: 20px 200px;
+    padding: 20px;
+    border: 1px solid rgb(204, 201, 201);
+    border-radius: 10px;
+    text-align:start;
+    display: flex;
+    flex-direction: column;
+}
+
+.label{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px 0 ;
+}
+
+.age-label{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px 0 ;
+}
+input {
+    border: 1px solid rgb(206, 202, 202);
+    border-radius: 5px;
+    height: 20px;
+    font-size: 16px;
+}
