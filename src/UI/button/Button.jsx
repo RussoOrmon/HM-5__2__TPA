@@ -1,11 +1,11 @@
-import './button.scss'
+import styles from './button.module.css'
 
 
 const Button = () => {
 
 
   return (
-    <button   className='btn' >Add User </button>
+    <button   className={styles.btn} >Add User </button>
   )
 }
 
