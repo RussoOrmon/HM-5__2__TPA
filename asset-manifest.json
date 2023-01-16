@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HM-5__2__TPA/static/css/main.390534f7.css",
+    "main.js": "/HM-5__2__TPA/static/js/main.287867bb.js",
+    "index.html": "/HM-5__2__TPA/index.html",
+    "main.390534f7.css.map": "/HM-5__2__TPA/static/css/main.390534f7.css.map",
+    "main.287867bb.js.map": "/HM-5__2__TPA/static/js/main.287867bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.390534f7.css",
+    "static/js/main.287867bb.js"
+  ]
+}
